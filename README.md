@@ -1,16 +1,31 @@
-## Hi there 👋
+#  Daniel
 
-<!--
-**DanielAbade1/DanielAbade1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade Cruzeiro do Sul**, atualmente no 2º semestre.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou uma pessoa **proativa, organizada e com facilidade para aprender**. Gosto de tecnologia e estou sempre buscando aprender novas ferramentas e conceitos.
+
+## 🛠️ Tecnologias e conhecimentos
+
+* ☕ **Java**
+* 📊 **KNIME Analytics Platform**
+* 🐍 **Python**
+* 📈 **Análise de Dados**
+* 📑 **Excel**
+* 💻 **Pacote Office**
+* 🔧 **Informática e suporte técnico**
+
+Estou sempre aberto a **aprender novas ferramentas, tecnologias e processos**.
+
+## 📫 Contato
+
+📧 **E-mail:** [danielabade426@gmail.com](mailto:danielabade426@gmail.com)
+📍 **São Paulo – SP**
+
+---
+
+⭐ *"Sempre aprendendo, desenvolvendo e buscando transformar conhecimento em prática."*
+
+
+
